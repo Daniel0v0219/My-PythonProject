@@ -1,8 +1,8 @@
 """
 File: Steeplechase.py
-Name: 蔡佾燁
+Name: 李承晏
 ---------------------------------
-蔡佾燁
+李承晏
 """
 
 from karel.stanfordkarel import *
